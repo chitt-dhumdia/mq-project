@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+
+    max-width: 1320px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+    display: inline-block;
+}
+
+li{
+    list-style-type: none;
+}
+
+.d-flex{
+
+    display: flex;
+}
+
+.justify-cintent-center{
+
+    justify-content: center;
+}
+
+.aline-item-center{
+
+    align-items: center;
+}
+
+/* top navbar section start  */
+
+
+
+/* top navbar section end  */
